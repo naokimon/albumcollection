@@ -84,7 +84,6 @@ body{
     margin-top: 10%;
     margin-bottom: 2.5%;
     border-radius: 5%;
-    border: solid white 2px;
 }
 
 .genre-text{
@@ -100,8 +99,6 @@ body{
     align-items: center;
     width: 75%;
     min-height: 75%;
-    background-color: rgb(15, 15, 15);
-    border-radius: 5%;
 }
 
 .genres h1{
